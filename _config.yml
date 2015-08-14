@@ -9,3 +9,7 @@ github_username:  puentesarrin
 
 # Build settings
 markdown: kramdown
+
+# Additional gems
+gems:
+  - jekyll-redirect-from
